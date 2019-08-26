@@ -1,0 +1,5 @@
+4.4 git相关
+  关联远程分支    git remote add origin your-address
+  查看关联结果    git remote -v
+  拉取远程代码    git pull origin master  
+  把需要从提交的代码从工作区提交到暂存区 git add .
